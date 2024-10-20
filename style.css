@@ -1,0 +1,9 @@
+.active {
+  background-color: rgba(14, 122, 129, 0.1);
+  border-radius: 120px;
+}
+
+.disabled{
+  opacity: 0.4;
+  cursor:not-allowed;
+}
